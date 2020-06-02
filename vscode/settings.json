@@ -1,0 +1,9 @@
+{
+    "codespaces.accountProvider": "Microsoft",
+    "codespaces.defaultExtensions": [
+        "ms-vsonline.vsonline",
+        "GitHub.vscode-pull-request-github",
+        "ms-vsliveshare.vsliveshare",
+        "visualstudioexptteam.vscodeintellicode"
+    ]
+}

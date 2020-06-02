@@ -1,0 +1,5 @@
+jebbs.plantuml
+budparr.language-hugo-vscode
+yzhang.markdown-all-in-one
+davidanson.vscode-markdownlint
+marp-team.marp-vscode
