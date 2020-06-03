@@ -1,9 +1,18 @@
 {
     "codespaces.accountProvider": "Microsoft",
+    "codespaces.planFilter": "",
+    "dotfiles.repository": "https://github.com/skleanthous/dotfiles",
+    "dotfiles.targetPath": "~/.dotfiles",
+    "dotfiles.installCommand": "~/.dotfiles/install.sh",
     "codespaces.defaultExtensions": [
         "ms-vsonline.vsonline",
         "GitHub.vscode-pull-request-github",
         "ms-vsliveshare.vsliveshare",
-        "visualstudioexptteam.vscodeintellicode"
+        "visualstudioexptteam.vscodeintellicode",
+        "jebbs.plantuml",
+		"budparr.language-hugo-vscode",
+		"yzhang.markdown-all-in-one",
+		"davidanson.vscode-markdownlint",
+		"marp-team.marp-vscode"
     ]
 }
