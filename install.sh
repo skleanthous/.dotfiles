@@ -1,4 +1,6 @@
 #!/bin/bash
+sudo apt-get install git bash-completion
+
 while read EXTENSION
 do
     echo_info "Install VSCode Extension: $EXTENSION"
