@@ -3,3 +3,5 @@ budparr.language-hugo-vscode
 yzhang.markdown-all-in-one
 davidanson.vscode-markdownlint
 marp-team.marp-vscode
+ms-vscode.go
+ryanolsonx.zenburn
