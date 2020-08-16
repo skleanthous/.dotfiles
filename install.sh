@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo apt-get install git bash-completion
+sudo apt-get install -y git bash-completion
 
 #
 # Install node
