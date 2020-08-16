@@ -13,7 +13,7 @@ sudo apt-get install -y graphviz
 sudo hugoapt-get install -y plantuml
 
 while read EXTENSION
-do	do
+do
     echo_info "Install VSCode Extension: $EXTENSION"	    echo_info "Install VSCode Extension: $EXTENSION"
     code --install-extension $EXTENSION	    code --install-extension $EXTENSION
 done < $HOME/.dotfiles/vscode/extensions.txt 	done < $HOME/.dotfiles/vscode/extensions.txt 
