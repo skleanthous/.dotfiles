@@ -8,6 +8,6 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y build-essential
 sudo apt-get install hugo
 # install latest jdk
-apt-get install -y default-jdk
-apt-get install -y graphviz
-apt-get install -y plantuml
+sudo apt-get install -y default-jdk
+sudo apt-get install -y graphviz
+sudo hugoapt-get install -y plantuml
